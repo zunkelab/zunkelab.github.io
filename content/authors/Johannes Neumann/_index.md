@@ -6,7 +6,7 @@ role: M.Sc. Student
 
 bio: 
 user_groups:
-  - Students
+  - Thesis Projects
 
 avatar: avatar.jpg
 ---

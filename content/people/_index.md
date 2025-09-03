@@ -34,6 +34,7 @@ sections:
         - PhD Students
         - Administration
         - Technical Assistance
+        - Thesis Projects
         - Students
       sort_by: Params.last_name
       sort_ascending: true

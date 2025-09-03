@@ -46,7 +46,7 @@ avatar:
 
 # Organizational groups (for People widget)
 user_groups:
-  - Students
+  - Thesis Projects
 ---
 
 Robin started working in service-related roles in 2013, obtaining his first certification as an Associate Engineer in collaboration with a dual study programme in 2016. He then went on to obtain a Bachelor of Engineering in electrical engineering with a focus on electronic systems at Beuth University of Applied Sciences Berlin in 2018 by developing a current terminal adjustment adapter for use as an adjustment test system in his bachelor’s thesis. Further work introduced him to REFA basic training in process analysis and statistical data analysis.  

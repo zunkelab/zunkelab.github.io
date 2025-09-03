@@ -42,7 +42,7 @@ avatar:
 
 # Organizational groups
 user_groups:
-  - Students
+  - Thesis Projects
 ---
 
 Linnea is studying molecular medicine at the FAU Erlangen and has previously worked at the Virology Institute in Erlangen, where she supported work on monitoring different strains of the Mpox Virus. Currently she is working on her bachelor thesis in the Zunke lab under Fanni’s supervision. Her project focuses on the activity of different lysosomal enzymes in EVs derived from Parkinson Disease and MSA patient plasma obtained from the clinic biobank.

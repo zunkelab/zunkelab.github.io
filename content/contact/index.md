@@ -42,7 +42,7 @@ sections:
           Email: andrea.weitzenfelder(at)uk-erlangen.de  
 
       email: zunkelab@gmail.com
-      phone: '+49 9131 85-34492'
+      phone: '+49 9131 85-39324'
       address:
         street: Schwabachanlage 6
         city: Erlangen

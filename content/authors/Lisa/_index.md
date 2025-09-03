@@ -7,7 +7,7 @@ role: MD Student, Scientific Coordinator AstroFinder project
 bio: Medical student with research experience in neurodegeneration, immunology, and translational neuroscience.
 
 user_groups:
-  - Students
+  - Thesis Projects
 
 avatar: avatar.jpg
 
