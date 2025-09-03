@@ -7,7 +7,7 @@ role: Dentistry MD Student
 bio: Medical student with research experience in neurodegeneration, immunology, and translational neuroscience.
 
 user_groups:
-  - Doctoral Students
+  - Students
 
 avatar: 
 ---

@@ -32,7 +32,6 @@ sections:
         - Principal Investigators
         - Researchers
         - PhD Students
-        - Doctoral Students
         - Administration
         - Technical Assistance
         - Students
