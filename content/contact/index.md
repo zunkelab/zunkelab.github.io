@@ -54,8 +54,6 @@ sections:
         latitude: '49.6032707'
         longitude: '11.0092208'
       directions: The Molecular Neurology Department is located at the University Hospital Erlangen, Schwabachanlage 6.
-      office_hours:
-        - 'Monday–Friday: 9:00 to 15:00'
       autolink: true
 
       form:

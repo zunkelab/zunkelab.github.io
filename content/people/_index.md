@@ -47,6 +47,9 @@ sections:
     content:
       title: Alumni
       text: |-
+        - Geoffrey M. Goellner, Ph.D.
+          Professor, Department of Biological Sciences, Minnesota State University, Mankat, USA (visiting professor)
+        - Alexander Weiß (MD)
         - Jan Philipp Dobert, PhD (now postdoc in BIOS group at Twente University)  
         - Jasmin Arjomandi, M.Sc. (now PhD student in Medical Engineering)  
         - Raul Moritz, M.Sc.  
