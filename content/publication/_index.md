@@ -39,7 +39,7 @@ sections:
   # Alle Publikationen (aus content/publication/…)
   - block: collection
     content:
-      title: All publications
+      title: Selected publications
       count: 200
       filters:
         folders: ["publication"]
