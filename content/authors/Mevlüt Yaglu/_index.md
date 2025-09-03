@@ -29,8 +29,6 @@ education:
 interests:
   - Neuroimaging
   - Cognitive neuroscience
-  - Clinical psychiatry
-  - Machine learning in psychiatry
   - Translational neuroscience
 
 social:
@@ -38,5 +36,5 @@ social:
     icon_pack: fas
     link: "mailto:m.yaglu@web.de"
 ---
-Mevlüt Yaglu is currently studying Medicine at the Friedrich-Alexander University Erlangen-Nürnberg. He previously completed a Master’s degree in Psychology with a focus on cognitive neuroscience and clinical psychology at Goethe University Frankfurt (graduating with distinction, GPA 1.1) and spent an Erasmus semester at Tampere University in Finland. Before that, he earned his Bachelor’s degree in Psychology at Justus Liebig University Giessen.
+Mevlüt Yaglu is currently studying Medicine at the Friedrich-Alexander University Erlangen-Nürnberg. He previously completed a Master’s degree in Psychology with a focus on cognitive neuroscience and clinical psychology at Goethe University Frankfurt (GPA 1.1) and spent an Erasmus semester at Tampere University in Finland. Before that, he earned his Bachelor’s degree in Psychology at Justus Liebig University Giessen.
 His research experience includes work at the Sigmund Freud Institute in Frankfurt and the Vitos Clinic for Psychiatry and Psychotherapy, as well as projects in functional neuroimaging and machine learning for the prediction of psychotic disorders. In addition, he has served as a tutor in anatomy and brings solid expertise in neuropsychological diagnostics, neuroimaging, and programming (Python, R, machine learning).
