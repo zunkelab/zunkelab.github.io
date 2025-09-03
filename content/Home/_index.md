@@ -39,7 +39,7 @@ sections:
           align: right
           background:
             image:
-              filename: lab2.jpg
+              filename: team2.jpg
               filters:
                 brightness: 0.6
             position: center
