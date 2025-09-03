@@ -1,48 +1,66 @@
 ---
 title: Contact
-date: 2022-10-24
-
+date: 2025-09-01
 type: landing
+
+# Banner image for header
+banner:
+  image: Brain2.png
+  caption: ""
+  focal_point: center
+  text_color_light: true
+  title: "Contact"
+  subtitle: "Get in touch with the Zunke Lab"
 
 sections:
   - block: contact
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        We are part of the [Department of Molecular Neurology, University Hospital Erlangen](https://www.molekulare-neurologie.uk-erlangen.de/forschung-und-lehre/w1-professur-fuer-translationale-neurowissenschaften/).
+
+        **Lab leadership and administration:**
+
+        - **Prof. Dr. med. Jürgen Winkler**  
+          Head of Department  
+          Tel: +49 9131 85-39324  
+          Email: juergen.winkler(at)uk-erlangen.de  
+
+        - **Prof. Dr. rer. nat. Friederike Zunke**  
+          Deputy Head of Department / W2 Professorship for Translational Neurosciences  
+          Tel: +49 9131 85-34492  
+          Email: friederike.zunke(at)uk-erlangen.de  
+
+        - **Jasmin Fischbeck (geb. Burczyk)**  
+          Administrative Assistant / Team Assistant  
+          Tel: +49 9131 85-39324  
+          Email: mn-sekretariat(at)uk-erlangen.de  
+
+        - **Andrea Dötzer**  
+          Administrative Assistant  
+          Tel: +49 9131 85-44268 / +49 9131 85-39324  
+          Email: andrea.weitzenfelder(at)uk-erlangen.de  
+
+      email: zunkelab@gmail.com
+      phone: '+49 9131 85-34492'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Schwabachanlage 6
+        city: Erlangen
+        region: Bavaria
+        postcode: '91054'
+        country: Germany
+        country_code: DE
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '49.6032707'
+        longitude: '11.0092208'
+      directions: The Molecular Neurology Department is located at the University Hospital Erlangen, Schwabachanlage 6.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
+        - 'Monday–Friday: 9:00 to 15:00'
       autolink: true
-    
-      # Email form provider
+
       form:
         provider: netlify
-        formspree:
-          id:
         netlify:
-          # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
       columns: '1'
@@ -51,12 +69,12 @@ sections:
     content:
       title:
       subtitle: ''
-      text:
+      text: ""
     design:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: Brain2.png
           filters:
             brightness: 1
           parallax: false
