@@ -14,7 +14,7 @@ sections:
       title: "Research"
       subtitle: "Exploring molecular mechanisms of neurodegeneration"
       text: |-
-        <img src="/media/brain.png" style="float:right; max-width: 380px; margin: 0 0 1rem 2rem; border-radius: 8px;" alt="Research header image" />
+        <img src="/brain.png" style="float:right; max-width: 380px; margin: 0 0 1rem 2rem; border-radius: 8px;" alt="Research header image" />
 
         **Research Focus**  
         We study lysosomal dysfunction and its impact on the aggregation of alpha-synuclein (aSyn), a hallmark of Parkinson’s disease (PD), exploring how these molecular events contribute to cellular and tissue pathology.  
@@ -28,7 +28,7 @@ sections:
 
         **Our Mission: Translational Applications!**  
         By mapping PD-associated molecular signatures in extracellular vesicles and cellular pathways, we seek to understand molecular mechanisms of disease pathology in order to reliably establish biomarkers and therapeutic targets. This will facilitate early diagnosis and the development of personalized treatments.
-        
+
   - block:  collection
     content:
       title: Our Research Projects
