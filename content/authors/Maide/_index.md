@@ -31,4 +31,4 @@ social: []
 
 Maide Zehra Gencali completed her Bachelor of Science in Molecular Life Sciences in Prof. Olaf Prante's laboratory, focusing on the radiolabelling of boric acid, boric acid anhydride and boroxine with the radioactive isotope fluorine-18, and analysing their differences.
 
-For her Master's thesis, she joined the laboratory of PD Dr Philipp Arnold to conduct research in the field of extracellular vesicles. After earning her Master of Science degree, she began her PhD in Prof. Zunke's laboratory, where she is currently conducting research into Parkinson's disease. She is also continuing her extracellular vesicles project.
+For her Master's thesis, she joined the laboratory of PD Dr Philipp Arnold to conduct research in the field of extracellular vesicles. After earning her Master of Science degree, she began her PhD in Prof. Zunke's/ Arnold's laboratory, where she is currently conducting research into Parkinson's disease. She is also continuing her extracellular vesicles project.
