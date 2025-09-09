@@ -15,7 +15,7 @@ education:
   courses:
     - course: Integrated BSc-MSc in Biology
       institution: IISER Thiruvananthapuram, India
-      year: xxxx   # Abschlussjahr ergänzen
+      year: 2022   # Abschlussjahr ergänzen
     - course: PhD in Molecular Neurology
       institution: University Hospital Erlangen / FAU
       year: ongoing
