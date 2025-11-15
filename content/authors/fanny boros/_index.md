@@ -31,10 +31,6 @@ interests:
   - Long non-coding RNAs
   - Extracellular vesicles
 
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:FanniAnnamaria.Boros@uk-erlangen.de"
 ---
 
 Fanni is a postdoctoral researcher with a focus on elucidating the pathomechanisms, and identifying novel biomarkers for Parkinson´s disease. 
