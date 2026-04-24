@@ -56,10 +56,17 @@ outputFormats:
     baseName: _redirects
     isPlainText: true
     notAlternative: true
+  decap_cms_config:
+    name: decap_cms_config
+    mediaType: application/x-yaml
+    baseName: config
+    isPlainText: true
+    notAlternative: true
 
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
+
 
 imaging:
   resampleFilter: lanczos
@@ -92,4 +99,4 @@ security:
 
 sitemap:
   _merge: deep
-  
+
