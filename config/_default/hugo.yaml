@@ -45,20 +45,17 @@ disableAliases: true
 
 outputFormats:
   headers:
-    name: headers
     mediaType: text/plain
     baseName: _headers
     isPlainText: true
     notAlternative: true
   redirects:
-    name: redirects
     mediaType: text/plain
     baseName: _redirects
     isPlainText: true
     notAlternative: true
   decap_cms_config:
-    name: decap_cms_config
-    mediaType: application/x-yaml
+    mediaType: application/yaml
     baseName: config
     isPlainText: true
     notAlternative: true
