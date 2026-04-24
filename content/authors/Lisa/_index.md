@@ -19,7 +19,6 @@ organizations:
 
 user_groups:
   - Thesis Projects
-  - Students
 
 education:
   courses:
