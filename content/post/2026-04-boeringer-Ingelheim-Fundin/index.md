@@ -1,6 +1,6 @@
 ---
 title: "Hochrangige Förderung für innovatives Forschungsprojekt zur neurodegenerativen Erkrankung MSA"
-date: 2026-04
+date: 2026-04-01
 featured: true
 summary: "Ein zukunftsweisendes Forschungsprojekt an der Abteilung für Molekulare Neurologie des Universitätsklinikums Erlangen / Friedrich-Alexander-Universität Erlangen-Nürnberg wird durch die Boehringer Ingelheim Stiftung mit einem Exploration Grant gefördert. Die Auszeichnung zählt zu den renommiertesten und kompetitivsten Förderprogrammen für besonders innovative und risikoreiche Forschungsvorhaben.
 
