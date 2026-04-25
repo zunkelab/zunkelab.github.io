@@ -1,3 +1,5 @@
+github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7 h1:QPek2BL723n+uM4DjyV97qNIoPsmt/vnKAQyaGJbgvQ=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7/go.mod h1:xZiTEEurbEwj/NhZohozvlyLCGVCT2wARHDAJeqKG/c=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20241012174104-661cadc17327 h1:aKhll1k3EctTWSvLZYrkhz4ehSqo1+OX5Ho7LvfZR/0=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20241012174104-661cadc17327/go.mod h1:+Itucnia7M8NWxaEys257x/34K4+POiBlR1yYCTrzBM=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.8-0.20250823022930-fc4f073d4940 h1:gi8pksOV95FShIRWRaz2alBqRrnpSz9rE7n9hfLSXWI=
@@ -11,4 +13,7 @@ github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240509231741-c3d23d929bc6/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2 h1:rgavbaIjA9ki73sJ9OkE/yIdUYF2AJALs6NzCg6kC60=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.2.0 h1:I0urN3LANA8Cv+y5Nk05D44x4d1mj00NrPSmoFKtiKg=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.2.0/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.2/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-seo v0.2.3/go.mod h1:NsESu6cEms1DgH84icCyylElg2Zu8A0f7Fma5JR0LZE=

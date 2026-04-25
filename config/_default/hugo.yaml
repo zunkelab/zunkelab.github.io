@@ -1,22 +1,14 @@
-## Configuration of Hugo
+# Configuration of Hugo
 # Guide: https://docs.hugoblox.com/tutorial/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 
 title: Zunke Lab Group
 baseURL: 'https://example.com/'
 
-############################
-## LANGUAGE
-############################
-
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-############################
-## ADVANCED
-############################
 
 enableGitInfo: false
 summaryLength: 30
@@ -54,16 +46,10 @@ outputFormats:
     baseName: _redirects
     isPlainText: true
     notAlternative: true
-  decap_cms_config:
-    mediaType: application/yaml
-    baseName: config
-    isPlainText: true
-    notAlternative: true
 
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
-
 
 imaging:
   resampleFilter: lanczos
@@ -96,4 +82,3 @@ security:
 
 sitemap:
   _merge: deep
-
